@@ -23,17 +23,17 @@ It also has a smooth store locator option with Google Maps compatibility.
 
 ## Location Detailed Description
 
-Every map location has its own page, with detailed information such as descriptions, images, videos, complete addresses, and zip codes.
+Every map location has its own page, with detailed information such as description, images, videos, complete addresse, and zip code.
 
 Also, all locations are shown on Google Maps, with each having a unique icon depending on its category or user choice.
 
 ## Map and Index Page with all Locations
 
-This plugin makes a page that shows all places on a Google Map and as a list. Users can either go to the place page or see more things in a small box when they click on any place on the map or the list.
+This plugin creates a page that shows all places on a Google Map and as a list. Users can either go to the place page or see details in a popup box when they click on any place on the map or the list.
 
 ## Google Maps and Locations Plugin Premium Editions
 
-In [Premium editions](https://www.cminds.com/wordpress-plugins-library/tooltipglossary/) of this plugin the are more things you can do with the paid versions, like: different codes, use of shapes for showing places and spaces, user place finding help, API help and a lot more.
+In [Premium editions](https://www.cminds.com/wordpress-plugins-library/tooltipglossary/) of this plugin the are more things you can do with the paid versions, like: shortcodes support, using shapes for showing places and terrotories, user place tracking feature, API support and much more.
 
 ## Use Cases
 
@@ -42,7 +42,7 @@ In [Premium editions](https://www.cminds.com/wordpress-plugins-library/tooltipgl
 * **Store Finder**: Quickly add many real store locations, change the location symbols, pictures and details.
 * **Business Places**: Make a list of businesses with their places shown on Google Maps.
 * **Special Business**: Perfect for showing places on Google Maps in an organized and nice way.
-* **User Created Directory**: Make users more involved by letting them share places and things. The admin checks the things before saying yes and making them public.
+* **User Created Directory**: Involve users by letting them share places and details. The admin can moderate the location details before making them public.
 
 </details>
 
@@ -64,27 +64,27 @@ In [Premium editions](https://www.cminds.com/wordpress-plugins-library/tooltipgl
 
 > [Pro Version Detailed Features List](https://www.cminds.com/wordpress-plugins-library/map-locations-plugin-for-wordpress-by-creativeminds/) | [Demo Site](https://www.knowledgetrail.com/map-locations/) | [Tutorial](https://vimeo.com/146739374)
 
-* **Show places on map and list**: Choose how to show them for store finder, list, interest, etc.
+* **Show places on map and list**: The plugin has a few premade templates for the index page
 * **Import and export places using KML, GPX or CSV**
-* **Categories**: Group places and give picture for each group
+* **Categories**: Classify places and add a specific icon for each category
 * **Weather**: Show weather near each place
-* **Place Picture**: Change group picture with different picture for each place
-* **Upload Place Picture**: Upload your picture
-* **Images**: Add pictures and videos to places
-* **Shortcodes**: Use codes in posts and show place, map with places in group, etc.
+* **Place Icon**: Override category icons with unique icons for each place
+* **Custom Icons**: Use your own custom icons
+* **Images**: Add pictures and videos to place pages
+* **Shortcodes**: Use shortcodes in posts and show place, map with places in group, etc.
 * **Tags**: Add tags to places and pick places
-* **Search**: search by words in place details or name
-* **Search place using zip, distance and text**
-* **Change words in plugin**
-* **Access Control**: Pick who can make or see places
-* **Place checking and messages**
+* **Search**: Search by keywords in place details or by place name
+* **Search place using zip, radius and description**
+* **Edit or translate to any language all front-end labels related to the plugin**
+* **Access Control**: Define who can add or see places
+* **Admin moderation and email notifications**
 * **Let users share place map on other site**
 * **Tiles/Layers**: Show more from other services on map
 * **Polygon**: Draw shape on top
-* **Track users place**: Make link to show place on map now
+* **Track users place**: Let users share their current location on the map
 * **Add links to Waze and Google for each place**
-* **Make places and shapes for time**: Pick map by date and time
-* **Route Manager**: Show places and ways on map
+* **Add temporary places and shapes**: Filter map places by date and time
+* **Route Manager**: Show places and trails on a common map
 
 </details>
 
