@@ -3,11 +3,13 @@
 * Name: CM Map Locations
 * Contributors: CreativeMindsSolutions
 * Minimum WordPress version: 5.4.0
-* Tested up to WordPress version: 6.6
+* Tested up to WordPress version: 6.7.2
 
 ## Introduction
 
 [Pro Plugin Page](https://www.cminds.com/wordpress-plugins-library/multiple-locations-google-maps/) | [Videos](https://www.videolessonsplugin.com/video-lesson/lesson/google-map-locations-plugin/) | [Demo](https://www.knowledgetrail.com/map-locations/) | [User Guide](https://creativeminds.helpscoutdocs.com/category/568-locations-cmml) | [Plugin FAQ in CM Locations Plugin Site](https://www.cminds.com/wordpress-plugins-library/multiple-locations-google-maps/#faq)
+
+⭐ Meet the new CM Map Locations update! Now with a Setup Wizard and enhanced tools to make mapping easier and more powerful than ever.
 
 **This plugin helps users to handle and arrange different locations simply.**
 
@@ -55,6 +57,10 @@ In [Premium editions](https://www.cminds.com/wordpress-plugins-library/tooltipgl
 * Display all places on a page with one map.
 * Lets user view all their shared locations in a dashboard, create new places or control the state of amazing places.
 * Add pictures/videos for each location.
+* Support searching locations by keywords in description or title.
+* Support basic shortcodes.
+* Define what to display on the location page.
+* Setup Wizard helps configure the plugin quickly and easily.
 
 </details>
 
@@ -71,7 +77,7 @@ In [Premium editions](https://www.cminds.com/wordpress-plugins-library/tooltipgl
 * **Place Icon**: Override category icons with unique icons for each place
 * **Custom Icons**: Use your own custom icons
 * **Images**: Add pictures and videos to place pages
-* **Shortcodes**: Use shortcodes in posts and show place, map with places in group, etc.
+* **More Shortcodes**: Use shortcodes in posts and show place, map with places in group, etc.
 * **Tags**: Add tags to places and pick places
 * **Search**: Search by keywords in place details or by place name
 * **Search place using zip, radius and description**
